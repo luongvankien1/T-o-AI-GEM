@@ -1,0 +1,5 @@
+{
+  "name": "AI Character & Scene Creator",
+  "description": "An AI-powered tool to create characters from prompts or images, manage them in a library, and generate complete scenes by combining characters with descriptive text prompts. Features flexible editing and high-quality image downloads.",
+  "requestFramePermissions": []
+}
